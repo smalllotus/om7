@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+title: (o(m)7-beta)
+description: Visual programming environment for music
+
+zip_url: "https://github.com/openmusic-project/om7/releases"
+
+show_downloads: true
+

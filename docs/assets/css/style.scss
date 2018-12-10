@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a[class="title"] {
+    color: white;
+    text-decoration: none;
+}
+
+a.hover {
+    text-decoration: none;
+}
+
+#forkme_banner {
+	background-color : gray,
+}
+
+img {
+	height:auto;
+}
+
+p {
+	text-align:justify;
+}
+
+.inner {
+    max-width: 800px;
+ }
+
