@@ -18,7 +18,7 @@ o(m)7 is a prototype new generation of the OpenMusic visual programming and comp
 - [Recap' of basic commands](pages/basic-commands)
 - [Using external libraries](pages/libraries)
 - [3D-Viewer: interactive visualization of 3D data](pages/3D-viewer)
-- [more to come...]
+- [more to come...] 
 
 
 See also: <a href="https://hal.archives-ouvertes.fr/hal-01567619" target="_blank">ICMC'17 paper</a>.
