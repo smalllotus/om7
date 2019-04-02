@@ -1,4 +1,4 @@
-o(m)7 is a prototype new generation of the OpenMusic visual programming and computer-aided composition environment, including improvements and changes in graphical interface, computational features, and connection to external software libraries.
+om7 is a prototype new generation of the OpenMusic visual programming and computer-aided composition environment, including improvements and changes in graphical interface, computational features, and connection to external software libraries.
 
 
 
@@ -27,7 +27,7 @@ Other papers on <a href="https://github.com/openmusic-project/om7/wiki/Publicati
 
 ###### Libraries 
 
-Check out the o(m)7-compatible external libraries:
+Check out the om7-compatible external libraries:
 
   * [om-spat](https://github.com/openmusic-project/om-spat5)
   * [om-csound](https://github.com/openmusic-project/om-csound)
