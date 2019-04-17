@@ -2,7 +2,7 @@
 
 OM7 is a new generation of the [OpenMusic](http://repmus.ircam.fr/openmusic/) visual programming and computer-aided composition environment, developed as a research prototype with a number of improvements in terms of graphical interface, computational features and composition.
 
-It is not yet intended to replace OpenMusic and lacks a number of important features to do so. Patch files are not compatible, and most musical objects and libraries still need to be ported. OM6 is the official version, and I am doing my best to keep it running and improving in parallel. The sources are hosted [on this repository](https://github.com/openmusic-project/OM6/) and the latest version can be downloaded [here](https://github.com/openmusic-project/OM6/releases/latest).
+It is not (yet) intended to replace OM6 and lacks a number of important features (see currentstate/ongoing developments below). External libraries will also need to be ported (at minor cost for most of them). **OM6 is therefore still the official version**, and I am doing my best to keep it running and improving in parallel. The sources are hosted [on this repository](https://github.com/openmusic-project/OM6/) and the latest version can be downloaded [here](https://github.com/openmusic-project/OM6/releases/latest).
 
 ## Current state
 
