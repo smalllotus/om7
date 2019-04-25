@@ -33,7 +33,12 @@ body {
   color: #111111;
 }
 
- 
+.footnotes {
+  padding: 0;
+  margin: 0;
+  font-size: .7rem;
+}
+
 .main-content {
 
  @include large {

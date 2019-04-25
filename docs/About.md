@@ -36,14 +36,14 @@ In order to contribute to the code with a LispWorks license, one must therefore 
 ------
 # Some history...
 
-The OM7 project stems from several motivations and origins. Most of the code is written from scratch, but a significant part is largely inspired or borrowed from the original OpenMusic sources and basic musical features, including the indirect contributions of its successive authors and contributors.
+The OM7 project was initiated by @j-bresson in 2013. Most of the code is written from scratch, but a significant part of it is largely inspired or borrowed from the OM [original sources](https://github.com/openmusic-project/OM6/) and musical features, including the indirect contributions of its successive authors and contributors.
 
-The initial objective was to experiment with a number of basic visual and Lisp visual programming functions, without taking into account any specific music application yet.
-The first prototype was designed during a visit at the Center for New Music and Audio Technology (CNMAT) at UC Berkeley in 2013.
+[^1]: The very first prototype was designed during a visit at the Center for New Music and Audio Technology (CNMAT) at UC Berkeley in 2013.
 
-A second phase started with the [EFFICACe](http://repmus.ircam.fr/efficace/) research project conducted at IRCAM (2013-2017). The objective of this project was to explore the relationships between calculation, time and interactions in computer-assisted music composition processes, focusing on specific topics such as dynamic temporal structures or the control, visualization and interactive execution of sound synthesis and spatialization processes. 
-The [reactive model](https://hal.archives-ouvertes.fr/hal-00959312) recently developed in OpenMusic has been integrated as a native feature of om7 visual programs and works seamlessly in the visual programming environment.
-Jeremie Gracia created a framework for interactive control and representation of spatial scenes and descriptors, and Dimitri Bouche developed a dynamic scheduling architecture that was implemented and integrated as the main core for musical rendering and computation in om7, as well as new interfaces for temporal representation and organization of compositional processes (a new design of the OpenMusic _maquette_).
+The initial objective of OM7 was to experiment with a some visual Lisp programming features, without taking into account any specific music application yet.
+Important developments have been carried out during the [EFFICACe](http://repmus.ircam.fr/efficace/) research project conducted at IRCAM (2013-2017). This project aimed at exploring relationships between calculation, time and interactions in computer-assisted music composition processes, focusing on specific topics such as dynamic temporal structures or the control, visualization and interactive execution of sound synthesis and spatialization processes. 
+The [reactive model](https://hal.archives-ouvertes.fr/hal-00959312) recently introduced in OpenMusic has been integrated as a native feature of om7 and works seamlessly in the visual programming environment.
+@jeremie-gracia created a framework for interactive control and representation of spatial scenes and descriptors, and @dimitribouche developed a dynamic scheduling architecture that was implemented and integrated as the main core for musical rendering and computation in om7, as well as new interfaces for temporal representation and organization of compositional processes (a new design of the OpenMusic _maquette_).
 
-At the same time, we have created new editors and architectures for the manipulation of musical objects (curves, temporal data streams, controllers, etc.) that are currently being developed and completed to cover most operational areas of OpenMusic processes.
+At the same time, new editors and architectures for the manipulation of musical objects (curves, temporal data streams, controllers, scores, etc.) are being developed and completed to cover most operational areas of OpenMusic processes.
 

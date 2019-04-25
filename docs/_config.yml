@@ -1,5 +1,7 @@
 # theme: jekyll-theme-slate
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-mentions
 
 title: OM7
 description: Visual programming environment for computer-aided music compositon
@@ -8,6 +10,6 @@ zip_url: "https://github.com/openmusic-project/om7/releases"
 
 show_downloads: true
 
-site.github.owner_url: https://github.com/j-bresson
-site.github.owner_name: j-bresson
+owner_url: https://github.com/j-bresson
+owner_name: j-bresson
 
