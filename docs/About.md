@@ -1,14 +1,12 @@
 
 
-OM7 is a new generation of the [OpenMusic](http://repmus.ircam.fr/openmusic/) visual programming and computer-aided composition environment, developed as a research prototype with a number of improvements in terms of graphical interface, computational features and composition.
 
-
-------
 # Current state
 
 ### OM6 vs. OM7
 
-OM7 is not completely ready to replace OM6 and lacks a number of important features (see currentstate/ongoing developments below). External libraries will also need to be ported (at minor cost for most of them). **OM6 is therefore still the official version**, and I am doing my best to keep it running and improving in parallel. The sources are hosted [on this repository](https://github.com/openmusic-project/OM6/) and the latest version can be downloaded [here](https://github.com/openmusic-project/OM6/releases/latest).
+OM7 is the latest generation of the [OpenMusic](http://repmus.ircam.fr/openmusic/) visual programming and computer-aided composition environment. The beta-releases currently available are not completely ready to replace OM6 and lack a number of important features (see currentstate/ongoing developments below). External libraries will also need to be ported (at minor cost for most of them). 
+I am doing my best to keep OM6 running and improving in parallel: the sources are hosted [on this repository](https://github.com/openmusic-project/OM6/) and the latest version can be downloaded [here](https://github.com/openmusic-project/OM6/releases/latest).
 
 
 ### [OM7 beta 0.1.8](https://github.com/openmusic-project/om7/releases/latest)
@@ -17,7 +15,7 @@ OM7 is not completely ready to replace OM6 and lacks a number of important featu
   * Working conrol objects and editors: BPF, BPC, 3DC, PIANO-ROLL...
   * New maquette/sequencer interface
   * A number of compatible [libraries](Libraries), interfacing with external DSP frameworks (Spat, SuperVP, pM2, Csound...) 
-  * Basic score onjects (CHORD, CHORD-SEQ)
+  * Basic score objects (CHORD, CHORD-SEQ)
 
 ### Ongoing developments
 
@@ -27,7 +25,7 @@ OM7 is not completely ready to replace OM6 and lacks a number of important featu
 ------
 # Licensing
 
- OpenMusic is based on the Common Lisp programming language. As a Common Lisp program the environment can therefore be considered just an extension of the base Lisp including the compiled source code of the application. It is also possible to compile, load and run OpenMusic in the base Lisp environment, using the adequate compiler. 
+OpenMusic is based on the Common Lisp programming language. As a Common Lisp program the environment can therefore be considered just an extension of the base Lisp including the compiled source code of the application. It is also possible to compile, load and run OpenMusic in the base Lisp environment, using the adequate compiler. 
 
 While the sources of OM7 are available under the GPL license, the application is currently developed with [LispWorks 7.1.1](http://www.lispworks.com/): a commercial Lisp environment providing powerful multiplatform support and graphical/GUI toolkits. A free (limited) edition of LW6 is available on the LispWorks website, but unfortunately no free version of LW 7 exists at the moment.
 
