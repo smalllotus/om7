@@ -1,11 +1,10 @@
 
 <center><img src="./images/om7.png" ></center>
 
-[OpenMusic](http://repmus.ircam.fr/openmusic/) (OM) is a visual programming language based on [Common Lisp](http://www.gigamonkeys.com/book/introduction-why-lisp.html). Visual programs are created by assembling and connecting icons representing Lisp functions and data structures, built-in control structures (e.g. loops), and other program constructs.
+OM7 is the latest generation of [OpenMusic](http://repmus.ircam.fr/openmusic/) (OM), a visual programming language based on [Common Lisp](http://www.gigamonkeys.com/book/introduction-why-lisp.html). Visual programs are created by assembling and connecting icons representing Lisp functions and data structures, built-in control structures (e.g. loops), and other program constructs.
 OM may be used as a general purpose visual programming language, and reuse any existing Common Lisp code.
 At a more specialized level, a set of in-built tools and external libraries make it a powerful environment for music composition. Various classes implementing musical structures are provided, associated with graphical editors including common music notation, MIDI, OSC, 2D/3D curves, and audio buffers.
 
-OM7 is the latest generation of this visual language. 
 
 <center>
 <img src="./images/scores.png" width="53%" align="top">
