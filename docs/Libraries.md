@@ -2,7 +2,9 @@
 
 Check out the OM7-compatible external libraries:
 
-  * <a href="https://github.com/openmusic-project/om-spat5" target="_blank">om-spat5</a>
+  * <a href="https://github.com/openmusic-project/Repmus" target="_blank">Repmus</a>
+  * <a href="https://github.com/openmusic-project/Chaos" target="_blank">Chaos</a>
+  * <a href="https://github.com/openmusic-project/OM-Spat" target="_blank">OM-Spat</a>
   * <a href="https://github.com/openmusic-project/om-csound" target="_blank">om-csound</a>
   * <a href="https://github.com/openmusic-project/omchroma" target="_blank">OMChroma</a>
   * <a href="https://github.com/openmusic-project/om-iae" target="_blank">om-iae</a>
